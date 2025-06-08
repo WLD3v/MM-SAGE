@@ -1,0 +1,10 @@
+.idea/*
+
+*.ipynb_checkpoints
+*.pyc
+
+.idea/*
+*/__pycache__/*
+FlexFringe/*
+input/*
+output/*
