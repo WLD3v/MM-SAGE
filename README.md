@@ -1,5 +1,7 @@
 # MM-SAGE
-MM-SAGE is a multi-modal attack graph generation tool, inspired by the uni-modal attack graph generation tool SAGE. 
+MM-SAGE is a multi-modal attack graph generation tool, inspired by the uni-modal attack graph generation tool SAGE.
+
+Please note that the tool is under active construction and might require more setup than described in this document.
 
 ## Example Usage
 This example demonstrates how to run MM-SAGE using the AIT-ADS and AIT-LDS datasets. Please refer to the Links section below for the needed datasets and tools.
